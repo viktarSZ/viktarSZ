@@ -1,4 +1,4 @@
-![Header](https://github.com/viktarSZ/viktarSZ/blob/main/assets/LogoSZ.png)
+![Header](https://github.com/viktarSZ/viktarSZ/blob/main/assets/10%20GitHub%20Repositories%20for%20the%20Self-Taught%20Developer.jpg)
 
 ## Hello!
 I'm beginner software Engineer!
