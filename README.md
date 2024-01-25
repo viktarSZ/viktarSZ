@@ -1,4 +1,4 @@
-![Header]
+![Header](https://github.com/viktarSZ/viktarSZ/blob/main/assets/ViktarSZ.png)
 
 ## Hello! My name is Viktar. 
 I'm beginner software Engineer!
