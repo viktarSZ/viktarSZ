@@ -20,7 +20,7 @@ development on JAVA
 ![Static Badge](https://img.shields.io/badge/Polish--A2-%23AFEEEE?style=for-the-badge&logo=%236DB33F)
 
 ##### Fallow me:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%23AFEEEE?style=for-the-badge&logo=telegram&logoColor=blue)](https://web.telegram.org/@Ord_victor)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%23AFEEEE?style=for-the-badge&logo=telegram&logoColor=blue)](https://telegram.org/@Ord_victor)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23AFEEEE?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/viktar-shypul/)
 [![Static Badge](https://img.shields.io/badge/Viber-%23AFEEEE?style=for-the-badge&logo=viber&logoColor=blue)]
 
