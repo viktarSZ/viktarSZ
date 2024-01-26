@@ -1,4 +1,8 @@
-![Header](https://github.com/viktarSZ/viktarSZ/blob/main/assets/10%20GitHub%20Repositories%20for%20the%20Self-Taught%20Developer.jpg)
+<div>
+<p align="center">
+  <img width="600" height="400" src="https://github.com/viktarSZ/viktarSZ/blob/main/assets/10%20GitHub%20Repositories%20for%20the%20Self-Taught%20Developer.jpg">
+</p>
+</div>
 
 ## Hello!
 I'm beginner software Engineer!
@@ -29,5 +33,6 @@ development on JAVA
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%23AFEEEE?style=for-the-badge&logo=telegram&logoColor=blue)](https://telegram.org/@Ord_victor)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23AFEEEE?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/viktar-shypul/)
 ![Static Badge](https://img.shields.io/badge/Viber-%23AFEEEE?style=for-the-badge&logo=viber&logoColor=blue)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktarSZ&theme=catppuccin_latte&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
