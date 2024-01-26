@@ -5,7 +5,11 @@ I'm beginner software Engineer!
 My specialization is application 
 development on JAVA
 
-![Image alt](https://github.com/viktarSZ/viktarSZ/blob/main/assets/IoP0PvbbSWGAM.webp)
+<div>
+<p align="center">
+  <img width="200" height="150" src="https://github.com/viktarSZ/viktarSZ/blob/main/assets/IoP0PvbbSWGAM.webp">
+</p>
+</div>
 
 ### My skills:
 ![Static Badge](https://img.shields.io/badge/Java%20core-%23AFEEEE?style=for-the-badge)
