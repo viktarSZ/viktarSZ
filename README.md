@@ -5,6 +5,8 @@ I'm beginner software Engineer!
 My specialization is application 
 development on JAVA
 
+![Image alt](https://github.com/viktarSZ/viktarSZ/blob/main/assets/IoP0PvbbSWGAM.webp)
+
 ### My skills:
 ![Static Badge](https://img.shields.io/badge/Java%20core-%23AFEEEE?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Spring%20Framework-%23AFEEEE?style=for-the-badge&logo=spring&logoColor=green)
@@ -22,7 +24,6 @@ development on JAVA
 ##### Fallow me:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%23AFEEEE?style=for-the-badge&logo=telegram&logoColor=blue)](https://telegram.org/@Ord_victor)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23AFEEEE?style=for-the-badge&logo=linkedIn&logoColor=blue)](https://www.linkedin.com/in/viktar-shypul/)
-[![Static Badge](https://img.shields.io/badge/Viber-%23AFEEEE?style=for-the-badge&logo=viber&logoColor=blue)]
-
+![Static Badge](https://img.shields.io/badge/Viber-%23AFEEEE?style=for-the-badge&logo=viber&logoColor=blue)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktarSZ&theme=catppuccin_latte&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
