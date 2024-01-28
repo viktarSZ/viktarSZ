@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img width="500" height="300" src="https://github.com/viktarSZ/viktarSZ/blob/main/assets/10%20GitHub%20Repositories%20for%20the%20Self-Taught%20Developer.jpg">
+  <img width="400" height="320" src="https://github.com/viktarSZ/viktarSZ/blob/main/assets/code-java.jpg">
 </p>
 </div>
 
